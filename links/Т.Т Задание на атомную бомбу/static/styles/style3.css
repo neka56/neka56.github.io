@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+  }
+  
+  .name {
+    text-align: center;
+    margin-top: 2%;
+    font-family: cursive;
+    color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    margin-bottom: 3%;
+    font-size: 250%;
+  }
+  
+  .main {
+    margin-bottom: 25%;
+  }
+  
+  .text {
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 115%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 3%;
+  }
+   
+  .mini-div {
+    margin-top: 2%;
+  }
