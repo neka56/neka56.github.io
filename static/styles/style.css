@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+}
+
+
+.start {
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    text-align: center;
+    font-size: 100%;
+
+}
+
+.name {
+    display: inline;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+.first {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    -webkit-text-stroke-color: black;
+}
+
+.teg1 {
+    
+    font-size: 300%;
+    -webkit-text-stroke-width: 3.5px;
+    margin-top: 2%;
+}
+
+.teg2 {
+    font-size: 225%;
+    -webkit-text-stroke-width: 3.5px;
+    margin-top: 2%;
+}
+
+.teg3 {
+    font-size: 200%;
+    -webkit-text-stroke-width: 3px;
+    margin-top: 2%;
+}
+
+.main {
+    margin-bottom: 25%;
+}
+
+.one {
+    margin-top: 5%;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+
+.one-1 {
+    text-align: center;
+    margin-bottom: 2%;
+    font-family: cursive;
+    color: white;
+    -webkit-text-stroke-color: black;
+    font-size: 225%;
+    -webkit-text-stroke-width: 3px;
+    font-weight: bolder;
+
+}
+
+.spisok {
+    text-align: left;
+    margin-top: 1%;
+}
+
+.mini {
+    margin-top: 1%;
+}
+
+.dates {
+    display: contents;
+    color: blue;
+    font-weight: bold;
+  }
+
+  .img {
+    text-align: center;
+    margin: 3%;
+  }

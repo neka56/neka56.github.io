@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+.name {
+    text-align: center;
+    margin-top: 2%;
+    font-family: cursive;
+    color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+    margin-bottom: 3%;
+    font-size: 250%;
+}
+
+.main {
+    margin-bottom: 25%;
+}
+
+.text {
+    margin-left: 13%;
+    margin-right: 13%;
+    font-size: 115%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 3%;
+
+}
+
+.img {
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.mini-teg {
+    margin-bottom: 2%;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.dates {
+    display: contents;
+    color: blue;
+    font-weight: bold;
+}
+
+.text-teg {
+    margin-top: 2%
+}
